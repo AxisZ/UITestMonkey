@@ -26,5 +26,5 @@ You can change the following values.
                      @"scroll"      :@"30",
                      @"press"       :@"50"};
 ```
-_numberOfEvent, it's how many events will happen to your application.
+_numberOfEvent, it's how many events will happen to your application.<br>
 _eventWeight, are relative weights to determine how often an event gets triggered. For example, the "tap" event is 500 and the "doubleTap" event is 100. A "tap" is 5 times more likely to occur than a "doubleTap".
